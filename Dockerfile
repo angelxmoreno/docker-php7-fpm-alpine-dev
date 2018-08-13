@@ -1,5 +1,5 @@
 # Use Alpine Linux
-FROM angelxmoreno/docker-php7-fpm-alpine:latest
+FROM angelxmoreno/php7-fpm-alpine:latest
 
 MAINTAINER Angel S. Moreno <angelxmoreno@gmail.com>
 
